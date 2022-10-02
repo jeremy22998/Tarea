@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+}
+
+.titulo{
+     font-size: 80px;
+     text-align: center;
+}
+.nav{
+      background-color: gray;
+      margin-left: 700px;
+      margin-right: 700px;
+      border-radius: 30px;
+      
+}
+.navegacion{
+     background-color: var(--secundario);
+      display: flex;
+      flex-direction: column;
+      
+}
+
+.navegacion a {
+
+  text-align: center;
+  color: var(--blanco);
+  text-decoration: none; 
+  font-size: 2rem;
+  font-weight: bold; 
+  padding: 1rem; 
+}

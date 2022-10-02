@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 70px;
+}
+.abs{
+   
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+p{
+    text-align: center;
+    
+    margin-left: 700px;
+      margin-right: 700px;
+      font-size: 20px
+      
+}
